@@ -265,6 +265,10 @@
    - n2（ckpt）
 3. known
 
+### 插件介绍
+
+- [Extensions整理](https://home.gamer.com.tw/artwork.php?sn=5678466)
+
 ### vae
 
 - 
