@@ -309,4 +309,8 @@
 - [模型站点八（realistic+NED+deliberate+artErosAerosATribute）](https://drive.google.com/drive/folders/1-28hlAKXMci1JFpdm0t5TjYReHQrNq6y)
 
 ## AI系列文章
+- [利用colab实现AI绘画自由](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMzU0NQ==&mid=2247485199&idx=1&sn=4a6e446a527da2ca93689e094d8c6a88&chksm=c12ae399f65d6a8f00bab3cb70d88dac4bf980f24aba620d22b21615d1fba1c42d832278f5ef&scene=178&cur_album_id=2828075514673512448#rd)
+- [利用ControlNet重新定义你的AI姿势](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMzU0NQ==&mid=2247485421&idx=1&sn=07d4a7360803c410a170786a7b1d7646&chksm=c12ae37bf65d6a6db22213a7974220090e191cf4a8caf68893831c47755aa578e52bb101f21c&scene=178&cur_album_id=2828075514673512448#rd)
+- [AI绘画热点模型大汇总，让你一次用个够](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMzU0NQ==&mid=2247485584&idx=1&sn=c33eeb4be178dcc1d5ba864acea574c0&chksm=c12aec06f65d65101ea45506fdfda813be1d5b26311876508d4bdb2f50d25a0119372c6e1c1f&scene=178&cur_album_id=2828075514673512448#rd)
 
+个人公众号：HsuHeinrich
