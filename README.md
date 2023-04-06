@@ -314,3 +314,4 @@
 - [AI绘画热点模型大汇总，让你一次用个够](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMzU0NQ==&mid=2247485584&idx=1&sn=c33eeb4be178dcc1d5ba864acea574c0&chksm=c12aec06f65d65101ea45506fdfda813be1d5b26311876508d4bdb2f50d25a0119372c6e1c1f&scene=178&cur_album_id=2828075514673512448#rd)
 
 个人公众号：HsuHeinrich
+![HsuHeinrich](https://gitee.com/HsuHeinrich/images/raw/master/img/20230406192041.jpeg)
