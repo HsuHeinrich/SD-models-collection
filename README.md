@@ -264,7 +264,7 @@
    - [n1（ckpt+lora）](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/n1.zip)
    - n2（ckpt）
 3. known
-   - [known](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/known.zip)
+   - [known（lora）](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/known.zip)
 
 ### 插件介绍
 
