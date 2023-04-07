@@ -255,16 +255,16 @@
 > 每个模型含有模型文件+模型预览图+模型介绍markdown
 
 1. sfw
-   - ckpt1
-   - ckpt2+lora
+   - [ckpt1](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/ckpt1.zip)
+   - [ckpt2+lora](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/ckpt2_lora.zip)
    - ckpt3
    - ckpt4
    - backup
 2. nsfw
-   - n1（ckpt+lora）
+   - [n1（ckpt+lora）](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/n1.zip)
    - n2（ckpt）
 3. known
-
+   - [known](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/known.zip)
 
 ### 插件介绍
 
@@ -272,32 +272,32 @@
 
 ### vae
 
-- 
+- vae[https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/VAE.zip]
 
 ### controlNet
 
-- 
+- [controlNet](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/controlNet.zip)
 
 ### openpose
 
 - [Online 3D Openpose Editor](https://zhuyu1997.github.io/open-pose-editor/)
 - [有趣的姿势随机生成器](https://avatarposemaker.deezein.com/)
 - [多场景模型](https://app.posemy.art/)
-- c站openpose文件打包
+- [c站openpose文件打包](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/openpose.zip)
 
 ### tags
 
-- tags大全
+- [tags大全](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/tags.zip)
 - [AI繪圖魔導書](https://docs.google.com/spreadsheets/d/16wR5Zg_aQEbxLdrTOrB9cZf8QmsMrJnSGxFKbZVtrKc/edit#gid=70606558)
 - [魔法咒語](https://docs.google.com/document/d/1MtCr_Zo2xLUO2g2MuVEGlLhzx6BJUgN7ve5XGjPHR_I/edit#)
 
-### colab
+### AI绘画 colab
 
 [Stable Diffusion WebUI Colab TW](https://colab.research.google.com/drive/1lekLF7iib6M1R-NCylS0VMTF4wve-XuV)
 
 ### 模型站点
 
-> 模型站点使用方法参考公众号文章
+> 模型站点使用方法参考公众号文章[利用ControlNet重新定义你的AI姿势](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMzU0NQ==&mid=2247485421&idx=1&sn=07d4a7360803c410a170786a7b1d7646&chksm=c12ae37bf65d6a6db22213a7974220090e191cf4a8caf68893831c47755aa578e52bb101f21c&scene=178&cur_album_id=2828075514673512448#rd)
 
 - [模型站点一（Anything, Counterfeit, VAEs）](https://link.zhihu.com/?target=https%3A//drive.google.com/drive/folders/1nwfhnAMRkufekKsVBNSfKlX52BScklhJ)
 - [模型站点二（AbyssOrangeMix, PastelMix）](https://link.zhihu.com/?target=https%3A//drive.google.com/drive/folders/1ZxP6h5t68s1n2_iDJAOsTQsSzXmPdPFy)
@@ -314,4 +314,5 @@
 - [AI绘画热点模型大汇总，让你一次用个够](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMzU0NQ==&mid=2247485584&idx=1&sn=c33eeb4be178dcc1d5ba864acea574c0&chksm=c12aec06f65d65101ea45506fdfda813be1d5b26311876508d4bdb2f50d25a0119372c6e1c1f&scene=178&cur_album_id=2828075514673512448#rd)
 
 个人公众号：HsuHeinrich
+
 ![HsuHeinrich](https://gitee.com/HsuHeinrich/images/raw/master/img/20230406192041.jpeg)
