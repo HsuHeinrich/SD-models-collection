@@ -272,7 +272,7 @@
 
 ### vae
 
-- vae[https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/VAE.zip]
+- [vae](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/VAE.zip)
 
 ### controlNet
 
