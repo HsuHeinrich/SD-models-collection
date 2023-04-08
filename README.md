@@ -257,16 +257,16 @@
 > 每个模型含有模型文件+模型预览图+模型介绍markdown
 
 1. sfw
-   - [ckpt1](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/ckpt1.zip)
-   - [ckpt2+lora](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/ckpt2_lora.zip)
-   - ckpt3
-   - ckpt4
-   - backup
+   - [ckpt1](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/ckpt1.zip)：realistic+NED+deliberate+artErosAerosATribute
+   - [ckpt2+lora](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/ckpt2_lora.zip)：meinamix+c站top lora模型【sfw】
+   - [ckpt3](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/ckpt3.zip)：revAnimated+dreamshaper+国风3
+   - [ckpt4](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/ckpt4.zip)：rpg+OldFish+koreanstyle25D+dosmix+9527
+   - [backup](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/backup.zip)：Anything+Counterfeit+AbyssOrangeMix+PastelMix+ChilloutMix+CamelliaMix2.5D
 2. nsfw
-   - [n1（ckpt+lora）](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/n1.zip)
-   - n2（ckpt）
+   - [n1（ckpt+lora）](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/n1.zip)：urpm+f222+c站top lora模型【nsfw】
+   - [n2（ckpt）](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/n2.zip)：perfectWorld+meinahentai+hassakuHentai
 3. known
-   - [known（lora）](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/known.zip)
+   - [known（lora）](https://huggingface.co/HsuHeinrich/SD-models-collection/blob/main/known.zip)：特定人物
 
 ### 插件介绍
 
@@ -315,6 +315,6 @@
 - [利用ControlNet重新定义你的AI姿势](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMzU0NQ==&mid=2247485421&idx=1&sn=07d4a7360803c410a170786a7b1d7646&chksm=c12ae37bf65d6a6db22213a7974220090e191cf4a8caf68893831c47755aa578e52bb101f21c&scene=178&cur_album_id=2828075514673512448#rd)
 - [AI绘画热点模型大汇总，让你一次用个够](https://mp.weixin.qq.com/s?__biz=MzkxMDQyMzU0NQ==&mid=2247485584&idx=1&sn=c33eeb4be178dcc1d5ba864acea574c0&chksm=c12aec06f65d65101ea45506fdfda813be1d5b26311876508d4bdb2f50d25a0119372c6e1c1f&scene=178&cur_album_id=2828075514673512448#rd)
 
-个人公众号：HsuHeinrich
+## 个人公众号：HsuHeinrich
 
 ![HsuHeinrich](https://gitee.com/HsuHeinrich/images/raw/master/img/20230406192041.jpeg)
